@@ -1,0 +1,26 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#title {
+    margin: 1rem;
+    text-align: center;
+}
+
+#showcase-container {
+    margin: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+[data-bs-toggle=tooltip] {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.project {
+    width: 18rem;
+    margin: 1rem;
+}
