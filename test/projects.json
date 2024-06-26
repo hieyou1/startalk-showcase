@@ -2,7 +2,6 @@
     "$schema": "../project.schema.json",
     "projects": [
         {
-            "picture": "https://avatars.githubusercontent.com/u/31020711?v=4",
             "title": "DATA OF White Snake",
             "description": "Bai She is a story of x, y, and z.",
             "author": {
@@ -24,7 +23,6 @@
             "type": "web"
         },
         {
-            "picture": "https://avatars.githubusercontent.com/u/31020711?v=4",
             "title": "WEB OF White Snake",
             "author": {
                 "hanzi": "李迈克",
@@ -35,7 +33,6 @@
             "type": "web"
         },
         {
-            "picture": "https://avatars.githubusercontent.com/u/31020711?v=4",
             "title": "WEB OF White Snake",
             "description": "Bai She is a story of x, y, and z.",
             "author": {
@@ -47,7 +44,6 @@
             "type": "web"
         },
         {
-            "picture": "https://avatars.githubusercontent.com/u/31020711?v=4",
             "title": "DATA OF White Snake",
             "description": "Bai She is a story of x, y, and z.",
             "author": {
@@ -59,7 +55,6 @@
             "type": "data"
         },
         {
-            "picture": "https://avatars.githubusercontent.com/u/31020711?v=4",
             "title": "DATA OF White Snake",
             "description": "Bai She is a story of x, y, and z.",
             "author": {
@@ -71,7 +66,6 @@
             "type": "data"
         },
         {
-            "picture": "https://avatars.githubusercontent.com/u/31020711?v=4",
             "title": "DATA OF White Snake",
             "description": "Bai She is a story of x, y, and z.",
             "author": {

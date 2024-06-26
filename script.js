@@ -11,6 +11,7 @@ const makeTooltip = (text, tooltip) => {
 }
 
 window.onload = async () => {
+    if (LOAD_TEST_PROJECTS) document.querySelector("#title").innerText += " - TEST";
     let { projects } = await (await fetch(LOAD_TEST_PROJECTS ? "/test/projects.json" : "/projects.json")).json();
     document.querySelector("#showcase-container").innerText = "";
     for (let i of projects) {
