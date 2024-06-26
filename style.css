@@ -3,9 +3,16 @@ body {
     width: 100%;
 }
 
-#title {
+#header {
     margin: 1rem;
     text-align: center;
+}
+
+#toggle-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: pre;
 }
 
 #showcase-container {

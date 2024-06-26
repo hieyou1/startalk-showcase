@@ -11,7 +11,22 @@
 </head>
 
 <body>
-    <h1 id="title">STARTALK Project Showcase</h1>
+    <div id="header">
+        <h1 id="title">STARTALK Project Showcase</h1>
+        <div id="toggle-container">
+            <span>Show: </span>
+            <div id="toggle" class="btn-group" role="group">
+                <input type="radio" class="btn-check" name="toggle-state" id="toggle-all" autocomplete="off" checked disabled>
+                <label class="btn btn-outline-primary" for="toggle-all">All Projects</label>
+
+                <input type="radio" class="btn-check" name="toggle-state" id="toggle-web" autocomplete="off" disabled>
+                <label class="btn btn-outline-primary" for="toggle-web">Web Design</label>
+
+                <input type="radio" class="btn-check" name="toggle-state" id="toggle-data" autocomplete="off" disabled>
+                <label class="btn btn-outline-primary" for="toggle-data">Data Science</label>
+            </div>
+        </div>
+    </div>
     <div id="showcase-container">
         Loading...
     </div>

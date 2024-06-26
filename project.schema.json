@@ -1,0 +1,72 @@
+{
+    "$ref": "#/definitions/Project",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "Project": {
+            "additionalProperties": false,
+            "properties": {
+                "$schema": {
+                    "type": "string"
+                },
+                "projects": {
+                    "items": {
+                        "additionalProperties": false,
+                        "properties": {
+                            "author": {
+                                "additionalProperties": false,
+                                "properties": {
+                                    "english": {
+                                        "type": "string"
+                                    },
+                                    "hanzi": {
+                                        "type": "string"
+                                    },
+                                    "pinyin": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "hanzi",
+                                    "pinyin",
+                                    "english"
+                                ],
+                                "type": "object"
+                            },
+                            "description": {
+                                "type": "string"
+                            },
+                            "picture": {
+                                "type": "string"
+                            },
+                            "title": {
+                                "type": "string"
+                            },
+                            "type": {
+                                "enum": [
+                                    "web",
+                                    "data"
+                                ],
+                                "type": "string"
+                            },
+                            "url": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "type",
+                            "title",
+                            "author",
+                            "url"
+                        ],
+                        "type": "object"
+                    },
+                    "type": "array"
+                }
+            },
+            "required": [
+                "projects"
+            ],
+            "type": "object"
+        }
+    }
+}
