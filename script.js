@@ -83,6 +83,5 @@ window.onload = async () => {
     };
     for (let i of document.querySelectorAll("[name=toggle-state]")) {
         i.disabled = false;
-        console.log(i);
     }
 };
