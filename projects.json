@@ -1,0 +1,175 @@
+[
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "迈克",
+            "pinyin": "Mai Ke",
+            "english": "Mikey E"
+        },
+        "url": "https://github.com/hieyou1/startalk-showcase",
+        "description": "A website to showcase the projects my classmates and I have made over the past 3 weeks.",
+        "picture": "https://drive.google.com/file/d/1svVkGWbNw1G5xVCDxAyp030IIi3QlRmX/view?usp=sharing"
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "迈克",
+            "pinyin": "Mai Ke",
+            "english": "Mikey E"
+        },
+        "url": "https://html-10316539.codehs.me/index.html",
+        "description": "White Snake is a story about revival and love. I took the story and re-told it using some English and some Chinese, with pinyin available to non-fluent readers upon hovering over the Chinese.",
+        "picture": "https://drive.google.com/open?id=1JSK9-f2tVUKnCjkflaQfEiq4OiTBj3g3"
+    },
+    {
+        "type": "data",
+        "author": {
+            "hanzi": "迈克, 兰花, & 田野",
+            "pinyin": "Mai Ke, Lan Hua, & Tian Ye",
+            "english": "Mikey E, Addyson W, Knox T"
+        },
+        "url": "https://html-10316539.codehs.me/r.html",
+        "description": "This is an analysis of the story \"Journey to the West\" using R, showing frequently used words and the sentiment throughout the story."
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "卫慧",
+            "pinyin": "Wei Hui",
+            "english": "Victoria D"
+        },
+        "url": "https://titlepage-10353814.codehs.me/index.html",
+        "description": "My project includes information about Chinese games and Chinese mythology. It is a simple blog that includes various written information and graphics describing what I learned in Chinese class. This blog includes both Chinese and English components to support students, like me, trying to learn Mandarin Chinese."
+    },
+    {
+        "type": "data",
+        "author": {
+            "hanzi": "卫慧",
+            "pinyin": "Wei Hui",
+            "english": "Victoria D"
+        },
+        "url": "https://page-10330171.codehs.me/3_Kingdoms.html",
+        "description": "It is a quick presentation that describes the ancient Chinese story of the Romance of the Three Kindoms. It also explains how I used R code to data mine this ancient text. My presentations also displays the results for my word frequency and sentiment analysis."
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "瑞娜",
+            "pinyin": "Rui Na",
+            "english": "Reina E"
+        },
+        "url": "https://experiment-1-10316531.codehs.me/index.html",
+        "description": "I created a blog on The Snail Lady and Chinese card terms. It is in Chinese and English, including the links to the NSA Startalk Program and the Marquette Startalk Program. It shows the Marquette logo and pictures that describe the story."
+    },
+    {
+        "type": "data",
+        "author": {
+            "hanzi": "瑞娜 & 佳瑶",
+            "pinyin": "Rui Na & Jia Yao",
+            "english": "Reina E & Elina C"
+        },
+        "url": "https://experiment-1-10316531.codehs.me/r.html",
+        "description": "Our project is a slideshow that goes into detail about the famous story Romance of Three Kingdoms, such as which words are repeated most, how code works together to create a story, the statistics etc.."
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "伟伦",
+            "pinyin": "Wei Lun",
+            "english": "Andrew Y"
+        },
+        "url": "https://andrew-startalk-10316542.codehs.me/index.html",
+        "description": "This is the 2024 startalk project collections. links above are the projects👆. Within these 3 weeks I have collected 3 projects/moments, that was taught about. As well as the blender project and R project(A.I).",
+        "picture": "https://drive.google.com/open?id=13n7Zi7CiwIQDyMnu2CRnptUX2OmfPgg_"
+    },
+    {
+        "type": "data",
+        "author": {
+            "hanzi": "伟伦 & 明顺",
+            "pinyin": "Wei Lun & Ming Shun",
+            "english": "Andrew Y & Zach P"
+        },
+        "url": "https://program-10330120.codehs.me/r.html",
+        "description": "A project that uses R code to analyze text in the famous Chinese book Journey to the West. This project includes general information about Journey to the West, and using various methods analyzes common words used in the story, as well as the feelings and tone of the story."
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "明顺",
+            "pinyin": "Ming Shun",
+            "english": "Zach P"
+        },
+        "url": "https://program-10330120.codehs.me/index.html",
+        "description": "A website with pages about multiple activities we did at the camp. One page describes a Chinese Myth that we learned about in class. Another page displays a slideshow of a group project we did using R code. "
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "石头",
+            "pinyin": "Shi Tou",
+            "english": "Jasper S"
+        },
+        "url": "https://chines-website-10330130.codehs.me/index.html",
+        "description": "A website in which you can learn about a Chinese game and a story which is also Chinese and all of the details in those particular things."
+    },
+    {
+        "type": "data",
+        "author": {
+            "hanzi": "石头",
+            "pinyin": "Shi Tou",
+            "english": "Jasper S"
+        },
+        "url": "https://chines-website-10330130.codehs.me/r.html",
+        "description": "A text analysis for Harry Potter and the Sorcerer's Stone."
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "小雅",
+            "pinyin": "Xiao Ya",
+            "english": "Fiona S"
+        },
+        "url": "https://html-10330128.codehs.me/index.html",
+        "description": "My project is a website that tells the story of a famous Chinese Legend that includes pictures, a link, and important names and words in italics or bold writing. There is also some Chinses words and names."
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "田野",
+            "pinyin": "Tian Ye",
+            "english": "Knox T"
+        },
+        "url": "https://startalk-html-10316544.codehs.me/index.html",
+        "description": "The project I made is a website summarizing the story of Qu Yuan in pinyin, and it also explains how to play Aeroplane Chess in English"
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "兰花",
+            "pinyin": "Lan Hua ",
+            "english": "Addyson W"
+        },
+        "url": "https://startalk2024-week-2-10334241.codehs.me/index.html",
+        "description": "Talking about the tales of forbiden love from around the world. "
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "佳瑶",
+            "pinyin": "Jia Yao",
+            "english": "Elina C"
+        },
+        "url": "https://blog-10330133.codehs.me/index.html",
+        "description": "This is a blog I created."
+    },
+    {
+        "type": "web",
+        "author": {
+            "hanzi": "丽花",
+            "pinyin": "Li Hua",
+            "english": "Linnea S"
+        },
+        "url": "https://html-10316541.codehs.me/index.html",
+        "description": "This project is a very basic HTML website that gives a basic summary of the Legend of Qu Yuan. It has some pictures, links, and different types of text. "
+    }
+]

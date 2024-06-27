@@ -1,4 +1,4 @@
-const LOAD_TEST_PROJECTS = true;
+const LOAD_TEST_PROJECTS = false;
 const DEFAULT_PICTURE = "startalk.png";
 
 const makeTooltip = (text, tooltip) => {
