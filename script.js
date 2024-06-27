@@ -17,10 +17,14 @@ window.onload = async () => {
     for (let i of projects) {
         let card = document.createElement("div");
         card.classList.add("card", "project", "project-" + i.type);
+        let imgAnchor = document.createElement("a");
+        imgAnchor.target = "_blank";
+        imgAnchor.href = i.url;
         let img = document.createElement("img");
         img.src = i.picture ?? DEFAULT_PICTURE;
         img.classList.add("card-img-top");
-        card.appendChild(img);
+        imgAnchor.appendChild(img);
+        card.appendChild(imgAnchor);
         let cardBody = document.createElement("div");
         cardBody.classList.add("card-body");
         let title = document.createElement("h5");
@@ -37,14 +41,14 @@ window.onload = async () => {
         if (i.description) {
             let desc = document.createElement("p");
             desc.classList.add("card-text");
-            desc.innerText = i.description;
+            desc.innerHTML = i.description;
             cardBody.appendChild(desc);
         }
         let open = document.createElement("a");
         open.classList.add("btn", "btn-primary");
         open.href = i.url;
         open.target = "_blank";
-        open.innerText = "Open Project";
+        open.innerText = i.button ?? "Open Project";
         cardBody.appendChild(open);
         card.appendChild(cardBody);
         document.querySelector("#showcase-container").appendChild(card);

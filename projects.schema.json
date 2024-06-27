@@ -32,6 +32,9 @@
                                 ],
                                 "type": "object"
                             },
+                            "button": {
+                                "type": "string"
+                            },
                             "description": {
                                 "type": "string"
                             },
@@ -49,6 +52,9 @@
                                 "type": "string"
                             },
                             "url": {
+                                "type": "string"
+                            },
+                            "id": {
                                 "type": "string"
                             }
                         },

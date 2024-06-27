@@ -3,7 +3,8 @@ body {
     width: 100%;
 }
 
-#header {
+#header,
+#footer {
     margin: 1rem;
     text-align: center;
 }
@@ -30,4 +31,10 @@ body {
 .project {
     width: 18rem;
     margin: 1rem;
+}
+
+.card-img-top {
+    display: block;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
 }
