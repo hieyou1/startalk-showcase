@@ -11,7 +11,7 @@
             },
             "url": "https://github.com/hieyou1/startalk-showcase",
             "description": "A website to showcase the projects my classmates and I have made over the past 3 weeks.",
-            "picture": "https://drive.google.com/file/d/1svVkGWbNw1G5xVCDxAyp030IIi3QlRmX/view?usp=sharing"
+            "picture": "/images/1.png"
         },
         {
             "type": "web",
@@ -23,7 +23,7 @@
             },
             "url": "https://html-10316539.codehs.me/index.html",
             "description": "White Snake is a story about revival and love. I took the story and re-told it using some English and some Chinese, with pinyin available to non-fluent readers upon hovering over the Chinese.",
-            "picture": "https://drive.google.com/open?id=1JSK9-f2tVUKnCjkflaQfEiq4OiTBj3g3"
+            "picture": "/images/2.jpg"
         },
         {
             "type": "data",
@@ -35,6 +35,18 @@
             },
             "url": "https://html-10316539.codehs.me/r.html",
             "description": "This is an analysis of the story \"Journey to the West\" using R, showing frequently used words and the sentiment throughout the story."
+        },
+        {
+            "type": "web",
+            "title": "Blog",
+            "author": {
+                "hanzi": "佳瑶",
+                "pinyin": "Jia Yao",
+                "english": "Elina C"
+            },
+            "url": "https://blog-10330133.codehs.me/index.html",
+            "description": "This is a blog I created.",
+            "picture": "/images/3.png"
         },
         {
             "type": "web",
@@ -90,7 +102,7 @@
             },
             "url": "https://andrew-startalk-10316542.codehs.me/index.html",
             "description": "This is the 2024 startalk project collections. links above are the projects👆. Within these 3 weeks I have collected 3 projects/moments, that was taught about. As well as the blender project and R project(A.I).",
-            "picture": "https://drive.google.com/open?id=13n7Zi7CiwIQDyMnu2CRnptUX2OmfPgg_"
+            "picture": "/images/4.jpg"
         },
         {
             "type": "data",
@@ -168,17 +180,6 @@
             },
             "url": "https://startalk2024-week-2-10334241.codehs.me/index.html",
             "description": "Talking about the tales of forbiden love from around the world. "
-        },
-        {
-            "type": "web",
-            "title": "Blog",
-            "author": {
-                "hanzi": "佳瑶",
-                "pinyin": "Jia Yao",
-                "english": "Elina C"
-            },
-            "url": "https://blog-10330133.codehs.me/index.html",
-            "description": "This is a blog I created."
         },
         {
             "type": "web",
